@@ -173,12 +173,16 @@ To calculate a cumulative grade point average, total the credit hours and then t
 
   3.  Divide the total grade points by the total credit hours
 
-Equation 1.3. CGPA Calculation Method
+Equation 1.3. CGPA Calculation Method 1 [Fresh CGPA]
 
 .. figure::  images/cgpa.jpg
    :align:   center
 
    [Equation 1.3] Cgpa calculation equation
+
+Equation 1.4. CGPA Calculation Method 1 [CGPA from existing GPA]
+
+CGPA = (Previous GPA of Semester A x Credits taken on Semester A) / (Current Semester B GPA x Current Credits Taken on Semester B) 
 
 1.5.2.4 Example how to calculate the CGPA
 
